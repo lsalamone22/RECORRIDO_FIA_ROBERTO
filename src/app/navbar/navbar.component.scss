@@ -1,0 +1,23 @@
+ion-header{
+  width: 100%;
+  height: 100px;
+}
+ion-buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ion-button{
+  margin-top: 25%;
+  background-color: none;
+  color: red;
+  font-size: medium;
+  align-items: center;
+  justify-content: center;
+
+}
+ion-icon{
+  margin-top: 25%;
+  color: red;
+}
+
